@@ -1,0 +1,28 @@
+C:\Users\608905523\desktop\BT_XML\BT_XML\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\608905523\desktop\BT_XML\BT_XML\obj\Debug\BT_XML.csproj.GenerateResource.Cache
+C:\Users\608905523\Desktop\BT_XML\BT_XML\bin\Debug\XMLTools.exe.config
+C:\Users\608905523\Desktop\BT_XML\BT_XML\bin\Debug\XMLTools.exe
+C:\Users\608905523\Desktop\BT_XML\BT_XML\bin\Debug\XMLTools.pdb
+C:\Users\608905523\Desktop\BT_XML\BT_XML\obj\Debug\XMLTools.Properties.Resources.resources
+C:\Users\608905523\Desktop\BT_XML\BT_XML\obj\Debug\XMLTools.exe
+C:\Users\608905523\Desktop\BT_XML\BT_XML\obj\Debug\XMLTools.pdb
+C:\Users\608905523\Desktop\BT_XML\BT_XML\obj\Debug\BT_XML.Form1.resources
+C:\Users\608905523\Desktop\Junk\BT_XML\BT_XML\bin\Debug\XMLTools.exe.config
+C:\Users\608905523\Desktop\Junk\BT_XML\BT_XML\obj\Debug\XMLTools.exe
+C:\Users\608905523\Desktop\Junk\BT_XML\BT_XML\obj\Debug\XMLTools.pdb
+C:\Users\608905523\Desktop\Junk\BT_XML\BT_XML\bin\Debug\XMLTools.exe
+C:\Users\608905523\Desktop\Junk\BT_XML\BT_XML\bin\Debug\XMLTools.pdb
+C:\Users\608905523\Desktop\Junk\BT_XML\BT_XML\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\608905523\Desktop\Junk\BT_XML\BT_XML\obj\Debug\BT_XML.Form1.resources
+C:\Users\608905523\Desktop\Junk\BT_XML\BT_XML\obj\Debug\XMLTools.Properties.Resources.resources
+C:\Users\608905523\Desktop\Junk\BT_XML\BT_XML\obj\Debug\BT_XML.csproj.GenerateResource.Cache
+C:\Users\608905523\Desktop\XML Tools\BT_XML\BT_XML\bin\Debug\XMLTools.exe.config
+C:\Users\608905523\Desktop\XML Tools\BT_XML\BT_XML\bin\Debug\XMLTools.exe
+C:\Users\608905523\Desktop\XML Tools\BT_XML\BT_XML\bin\Debug\XMLTools.pdb
+C:\Users\608905523\Desktop\XML Tools\BT_XML\BT_XML\obj\Debug\BT_XML.Form1.resources
+C:\Users\608905523\Desktop\XML Tools\BT_XML\BT_XML\obj\Debug\XMLTools.Properties.Resources.resources
+C:\Users\608905523\Desktop\XML Tools\BT_XML\BT_XML\obj\Debug\BT_XML.ServerCntrl.resources
+C:\Users\608905523\Desktop\XML Tools\BT_XML\BT_XML\obj\Debug\BT_XML.csproj.GenerateResource.Cache
+C:\Users\608905523\Desktop\XML Tools\BT_XML\BT_XML\obj\Debug\XMLTools.exe
+C:\Users\608905523\Desktop\XML Tools\BT_XML\BT_XML\obj\Debug\XMLTools.pdb
+C:\Users\608905523\desktop\XML Tools\BT_XML\BT_XML\obj\Debug\BT_XML.csprojResolveAssemblyReference.cache
